@@ -1,7 +1,6 @@
-import '../lib/foo.dart';
+import 'package:bug/foo.dart';
 
 main() {
   foo;
-  bar;
-
+  
 }
