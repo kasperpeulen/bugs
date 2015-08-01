@@ -1,0 +1,17 @@
+div.loading {
+  display: none;
+}
+
+body.mdl-upgrading > * {
+  display: none;
+}
+
+body.mdl-upgrading div.loading {
+  display: block;
+}
+
+#wrapper {
+  width: 400px;
+  margin: 10px auto;
+  padding: 10px;
+}
